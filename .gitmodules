@@ -1,0 +1,3 @@
+[submodule "realtime-server-library"]
+	path = realtime-server-library
+	url = git@github.com:Nikitf777/realtime-server-library.git
