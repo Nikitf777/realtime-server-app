@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "map": "cpp",
+        "queue": "cpp",
+        "functional": "cpp",
+        "thread": "cpp",
+        "optional": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "sstream": "cpp",
+        "unordered_map": "cpp",
+        "array": "cpp",
+        "condition_variable": "cpp"
+    }
+}
