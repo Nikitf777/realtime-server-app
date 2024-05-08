@@ -1,0 +1,5 @@
+if(EXISTS "/home/nikitf777/projects/cpp/with-git/realtime-server-app/build/realtime-server-library/third-party/asyncpp/asyncpp-test[1]_tests.cmake")
+  include("/home/nikitf777/projects/cpp/with-git/realtime-server-app/build/realtime-server-library/third-party/asyncpp/asyncpp-test[1]_tests.cmake")
+else()
+  add_test(asyncpp-test_NOT_BUILT asyncpp-test_NOT_BUILT)
+endif()
